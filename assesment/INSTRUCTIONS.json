@@ -63,7 +63,7 @@
             {
               "object_notation": "RESPONSE",
               "operator": "contains",
-              "expected_value": "About"
+              "expected_value": "about"
             }
           ],
           "join": "AND",
